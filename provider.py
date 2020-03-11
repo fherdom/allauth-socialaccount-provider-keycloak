@@ -35,5 +35,4 @@ class KeycloakProvider(OAuth2Provider):
         )
 
 
-# provider_classes = [KeycloakProvider]
 providers.registry.register(KeycloakProvider)

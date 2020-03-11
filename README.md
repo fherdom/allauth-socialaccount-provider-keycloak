@@ -1,8 +1,8 @@
-# allauth-keycloak-provider
+# allauth-socialaccount-provider-keycloak
 
 ## install
 
-`pip install -i https://test.pypi.org/simple/ allauth-keycloak-provider-fherdom`
+`pip install -i https://test.pypi.org/simple/ allauth-socialaccount-provider-keycloak`
 
 ## configure
 
@@ -15,7 +15,7 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    'allauth_keycloak_provider',
+    'allauth_socialaccount_provider_keycloak',
     ...
 ]
 

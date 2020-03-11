@@ -2,7 +2,7 @@
 
 ## install
 
-`pip install -i https://test.pypi.org/simple/ allauth-socialaccount-provider-keycloak`
+`pip install allauth-socialaccount-provider-keycloak`
 
 ## configure
 
